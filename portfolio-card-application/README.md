@@ -1,5 +1,5 @@
 # Portfolio Card Application
-
+see the live site by this url : https://portfoliocardapplication.netlify.app/
 A small React application that displays an interactive personal profile card. It focuses on component structure, props, styling, and basic state management for a clean, modern UI.
 
 ## Tech Stack
