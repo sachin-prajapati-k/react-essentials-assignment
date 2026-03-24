@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+see the live site using this url: https://funny-rolypoly-6b7463.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
